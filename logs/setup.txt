@@ -1,0 +1,4 @@
+[*] Le fichier de logs est pret a etre ecrit !
+[*] Lancement de l'application de setup
+[*] Nouveau temps d'ecran maximal defini !
+[*] Compteur du jour reintialiser
